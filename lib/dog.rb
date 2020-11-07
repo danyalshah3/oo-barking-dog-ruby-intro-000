@@ -15,3 +15,4 @@ fido.bark = "woof!"
 def bark
   puts "woof!"
 end
+end
